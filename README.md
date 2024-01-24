@@ -1,9 +1,5 @@
-![GitHub Masterhead](https://www.freepik.com/free-vector/night-time-sky-background-with-glittering-stars_87925569.htm#query=stars%20png&position=2&from_view=keyword&track=ais&uuid=d0f72bd8-ca6c-422a-b124-1943c03dcef7)
-
 <h1 align="center">Hi 👋, I'm Allan</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-
-<img  align="right" width="400" alt="GIF" src="https://images.app.goo.gl/fvsZSBvNAiCdjmVv5"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanoallashe" alt="allanoallashe" /></a> </p>
 
@@ -21,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@allaniusallano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@allaniusallano" height="30" width="40" /></a>
+<a href="https://twitter.com/allaniusallano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allaniusallano" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/allan-lenny-a87410260?trk=contact-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allan-lenny-a87410260?trk=contact-info" height="30" width="40" /></a>
 </p>
 
@@ -31,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanoallashe&show_icons=true&locale=en&layout=compact" alt="allanoallashe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allanoallashe&show_icons=true&locale=en" alt="allanoallashe" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allanoallashe&" alt="allanoallashe" /></p>
