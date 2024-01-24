@@ -1,13 +1,13 @@
-![GitHub Masterhead](https://images.app.goo.gl/7TgQXVPVCqp3QyEk6)
+![GitHub Masterhead](https://www.pinterest.com/pin/725361083703780347/)
 
 <h1 align="center">Hi 👋, I'm Allan</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-<img  align="right" width="400" alt="GIF" src="https://images.app.goo.gl/bG43QKpoy6jF7kKs8"/>
+<img  align="right" width="400" alt="GIF" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanoallashe" alt="allanoallashe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@allaniusallano" target="blank"><img src="https://img.shields.io/twitter/follow/@allaniusallano?logo=twitter&style=for-the-badge" alt="allaniusallano" /></a> </p>
+<p align="left"> <a href="https://twitter.com/allaniusallano" target="blank"><img src="https://img.shields.io/twitter/follow/allaniusallano?logo=twitter&style=for-the-badge" alt="allaniusallano" /></a> </p>
 
 - 🔭 I’m currently working on **Recipe App**
 
