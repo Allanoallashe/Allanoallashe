@@ -1,4 +1,4 @@
-![Header](https://images.app.goo.gl/xvzUFY1LPjxz3EN59)
+[![MasterHead](https://images.app.goo.gl/xvzUFY1LPjxz3EN59)
 <h1 align="center">Hi 👋, I'm Allan</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img alt="coding" align="right" width="400" src="https://images.app.goo.gl/H95W83AAzmJNiBAXA" >
