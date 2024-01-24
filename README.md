@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanoallashe" alt="allanoallashe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@allaniusallano" target="blank"><img src="https://img.shields.io/twitter/follow/@allaniusallano?logo=twitter&style=for-the-badge" alt="@allaniusallano" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@allaniusallano" target="blank"><img src="https://img.shields.io/twitter/follow/@allaniusallano?logo=twitter&style=for-the-badge" alt="allaniusallano" /></a> </p>
 
 - 🔭 I’m currently working on **Recipe App**
 
