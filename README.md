@@ -7,8 +7,10 @@
 <p align="left"> <a href="https://twitter.com/allaniusallano" target="blank"><img src="https://img.shields.io/twitter/follow/allaniusallano?logo=twitter&style=for-the-badge" alt="allaniusallano" /></a> </p>
 
 - 🔭 I’m currently working on **Recipe App**
+- [https://kitchenplaza.onrender.com](https://kitchenplaza.onrender.com)
 
-- 🌱 I’m currently learning **Typescript**
+
+- 🌱 I’m currently learning **Typescript + Django**
 
 - 👨‍💻 All of my projects are available at [http://bit.ly/429mvFY](http://bit.ly/429mvFY)
 
