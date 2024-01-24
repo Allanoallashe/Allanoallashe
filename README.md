@@ -1,7 +1,8 @@
-[![MasterHead](https://images.app.goo.gl/xvzUFY1LPjxz3EN59)](https://images.app.goo.gl/xvzUFY1LPjxz3EN59)
+![MasterHead](./[https://images.app.goo.gl/xvzUFY1LPjxz3EN59])
 <h1 align="center">Hi 👋, I'm Allan</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img  align="right" width="400" alt="coding" src="https://images.app.goo.gl/H95W83AAzmJNiBAXA" >
+
+<img  align="right" width="400" alt="coding" src="https://images.app.goo.gl/H95W83AAzmJNiBAXA" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allanoallashe" alt="allanoallashe" /></a> </p>
 
