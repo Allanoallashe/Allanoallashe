@@ -1,6 +1,8 @@
-
+![Masterhead](https://camo.githubusercontent.com/12e513c6f27beb9b47bd133fc9158abc4de723877eb1f021542ddf1a105edf5e/68747470733a2f2f692e70696e696d672e636f6d2f353634782f64322f31622f63302f64323162633061363665633265333436646362643733383734623933616230322e6a7067)
 <h1 align="center">Hi 👋, I'm Allan</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate fullstack developer (Heavy on Frontend) from Kenya</h3>
+
+<img width="300" align="right" src="https://camo.githubusercontent.com/b3449705c5e53c016e661568733f018eaa6f6ec38350e296c8827d94d9a21013/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allanoallashe&label=Profile%20views&color=0e75b6&style=flat" alt="allanoallashe" /> </p>
 
