@@ -1,10 +1,10 @@
+<!-- @format -->
 
 <h1 align="center">Hi 👋, I'm Allan...</h1>
 
 <h3 align="center">✨🎉🎊  I'm a passionate Fullstack Developer with comprehensive experience in both frontend and backend development. I specialize in creating dynamic, scalable, and user-friendly web applications. 🎊🎉✨</h3>
 
-
-<img width="" align="" src="https://github.com/Allanoallashe/Allanoallashe/blob/main/readmeImg.jpg" alt="gif" /> 
+<img width="" align="" src="https://github.com/Allanoallashe/Allanoallashe/blob/main/readmeImg.avif" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allanoallashe&label=Profile%20views&color=0e75b6&style=flat" alt="allanoallashe" /> </p>
 
@@ -25,8 +25,8 @@
 <a href="https://linkedin.com/in/allan-lenny-a87410260?trk=contact-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allan-lenny-a87410260?trk=contact-info" height="30" width="40" /></a>
 </p>
 
+# 💻 Tech Stack
 
- # 💻 Tech Stack
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -155,9 +155,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   </a>
 </p>
-
-
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanoallashe&show_icons=true&locale=en&layout=compact" alt="allanoallashe" /></p>
 
