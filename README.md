@@ -4,7 +4,7 @@
 <h3 align="center">✨🎉🎊  I'm a passionate Fullstack Developer with comprehensive experience in both frontend and backend development. I specialize in creating dynamic, scalable, and user-friendly web applications. 🎊🎉✨</h3>
 
 
-<img width="" align="" src="https://raw.githubusercontent.com/Allanoallashe/Allanoallashe/refs/heads/main/readmeImg.avif" alt="gif" /> 
+<img width="" align="" src="https://github.com/Allanoallashe/Allanoallashe/blob/main/readmeImg.jpg" alt="gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allanoallashe&label=Profile%20views&color=0e75b6&style=flat" alt="allanoallashe" /> </p>
 
