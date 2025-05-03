@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Allan...</h1>
 
-<h3 align="center">✨🎉🎊  I'm a passionate Fullstack Developer with comprehensive experience in both frontend and backend development. I specialize in creating dynamic, scalable, and user-friendly web applications. 🎊🎉✨</h3>
+<h3 align="center">✨🎉🎊  I'm a passionate Full Stack Developer with hands-on experience in building modern, scalable web applications using Node.js, React, and Next.js. I specialize in crafting responsive user interfaces, developing robust backend systems, and integrating RESTful APIs with efficiency and precision. With a strong eye for clean code, performance optimization, and maintainability, I bring both creativity and structure to every project. 🎊🎉✨</h3>
+<h3 align="center">✨🎉🎊  
+If you're looking for a dedicated developer to help bring your ideas to life, collaborate on cutting-edge projects, and exceed expectations—let's connect and build something incredible. 🎊🎉✨</h3>
 
 <img width="" align="" src="https://github.com/Allanoallashe/Allanoallashe/blob/main/readmeImg.avif" alt="gif" />
 
@@ -13,9 +15,9 @@
 - 🔭 I’m currently working on **TipApp**
 - [https://tipapp.ke](tipapp.ke)
 
-- 👨‍💻 View My Portfolio at [http://bit.ly/429mvFY](http://bit.ly/429mvFY)
+- 👨‍💻 View My Portfolio at [https://my-modern-portfolio-psi.vercel.app/](https://my-modern-portfolio-psi.vercel.app/)
 
-- 💬 Ask me about **React, Javascript, Next, MERN**
+- 💬 Ask me about **React, Javascript, Next js, Node js**
 
 - 📫 How to reach me **owinoallan77@gmail.com**
 
