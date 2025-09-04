@@ -9,6 +9,16 @@ If you're looking for a dedicated developer to help bring your ideas to life, co
 <img width="" align="" src="https://github.com/Allanoallashe/Allanoallashe/blob/main/readmeImg.avif" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allanoallashe&label=Profile%20views&color=0e75b6&style=flat" alt="allanoallashe" /> </p>
+<!-- <p align="left">
+  <a href="https://wakatime.com/@13644c0a-f964-4093-a24c-cd9c0a4b1d46">
+    <img src="https://wakatime.com/badge/user/13644c0a-f964-4093-a24c-cd9c0a4b1d46.svg" alt="Wakatime stats" />
+  </a>
+</p> -->
+<p align="left">
+  <a href="https://wakatime.com/@13644c0a-f964-4093-a24c-cd9c0a4b1d46">
+    <img src="https://wakatime.com/badge/user/13644c0a-f964-4093-a24c-cd9c0a4b1d46.svg" alt="Wakatime stats" />
+  </a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/allaniusallano" target="blank"><img src="https://img.shields.io/twitter/follow/allaniusallano?logo=twitter&style=for-the-badge" alt="allaniusallano" /></a> </p>
 
