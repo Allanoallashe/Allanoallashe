@@ -6,7 +6,7 @@
 <h3 align="center">✨🎉🎊  
 If you're looking for a dedicated developer to help bring your ideas to life, collaborate on cutting-edge projects, and exceed expectations—let's connect and build something incredible. 🎊🎉✨</h3>
 
-<img width="" align="" src="https://github.com/Allanoallashe/Allanoallashe/blob/main/readmeImg.avif" alt="gif" />
+<img width="" align="" src="https://github.com/Allanoallashe/Allanoallashe/blob/main/readmeImg.png" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allanoallashe&label=Profile%20views&color=0e75b6&style=flat" alt="allanoallashe" /> </p>
 <p align="left">
@@ -18,7 +18,8 @@ If you're looking for a dedicated developer to help bring your ideas to life, co
 - 🔭 I’m currently working on **TipApp**
 - [https://tipapp.ke](tipapp.ke)
 
-- 👨‍💻 View My Portfolio at [https://my-modern-portfolio-psi.vercel.app/](https://my-modern-portfolio-psi.vercel.app/)
+- 👨‍💻 View My Portfolio at
+  [https://my-modern-portfolio-psi.vercel.app/](https://my-modern-portfolio-psi.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, Next js, Node js**
 
